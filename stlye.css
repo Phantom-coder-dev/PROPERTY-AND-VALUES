@@ -1,0 +1,15 @@
+*{text-transform: capitalize;}
+h2{
+
+    color: brown;
+    font-size: xx-large;
+}
+h3{
+    color: bisque;
+   width: 90px;
+   font-size: 30px;
+}
+p{
+    color: rgb(226, 43, 43);
+    font-size: 30px;
+}
